@@ -3,4 +3,5 @@ Mostly CNCed 3D Printer build
 
 
 Current version of the build:
--Core XY Stage only
+- Core XY Stage 
+- Extruder for CoreXY
